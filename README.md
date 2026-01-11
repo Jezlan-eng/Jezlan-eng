@@ -107,9 +107,9 @@ DevOps and Cloud Engineering undergraduate with hands-on experience in Linux sys
 ---
 
 ## 📫 Contact Information
-- **LinkedIn:** https://linkedin.com/in/YOUR_LINK
-- **Email:** yourmail@gmail.com
-- **GitHub:** https://github.com/YOUR_USERNAME
+- **LinkedIn:** www.linkedin.com/in/samahath-jezlan
+- **Email:** jezlansamahath4@gmail.com
+- **GitHub:** https://github.com/Jezlan-eng
 
 ---
 
